@@ -9,7 +9,7 @@ My implementation for Unsupervised Toxic Comment Classification can be found [he
 
 ##
 For training a simple chatbot on Keras, use this [link](https://github.com/sekharvth/simple-chatbot-keras)
-
+![alt text](https://github.com/sekharvth/sekharvth.github.io/blob/master/capture_6.png)
 For an example on using RNNs (specifically LSTMs) for sentiment analysis, click [here](https://github.com/sekharvth/sentiment-analysis-lstm)
 
 A cool project on where you can generate your own dinosuar names can be found [here](https://github.com/sekharvth/dinosaur-name-generation-keras)
