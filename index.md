@@ -1,6 +1,6 @@
 # Welcome #
 
-This repository contains some the machine learning projects and deep learning projects I have done, mostly using Keras.
+This repository contains some of the machine learning projects and deep learning projects I have done, mostly using Keras.
 
 My implementation for Unsupervised Toxic Comment Classification can be found [here](https://github.com/sekharvth/toxic-comment-classification-unsupervised)
 
